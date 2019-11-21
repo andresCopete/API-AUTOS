@@ -1,6 +1,6 @@
 <html>
-<head>
 <title>Hola a todos</title>
-</hea>
+</head>
 
+<img src="san andrea.jpg"></img>
 <html>

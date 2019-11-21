@@ -1,6 +1,6 @@
 <html>
 <title>Hola a todos</title>
 </head>
-
 <img src="san andrea.jpg"></img>
+<img src ="img.prueba></img>
 <html>
